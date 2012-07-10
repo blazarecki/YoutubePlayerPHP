@@ -1,0 +1,14 @@
+# PHPUnit
+phpunit.xml
+report/
+vendor/
+
+# Composer
+composer.lock
+composer.phar
+
+# phpstorm
+.idea/
+
+# others
+example.php
