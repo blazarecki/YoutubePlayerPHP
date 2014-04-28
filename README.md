@@ -1,4 +1,4 @@
-# YoutubePlayerPHP [![Build Status](https://secure.travis-ci.org/benjaminlazarecki/YoutubePlayerPHP.png)](http://travis-ci.org/benjaminlazarecki/YoutubePlayerPHP)
+# YoutubePlayerPHP [![Build Status](https://secure.travis-ci.org/blazarecki/YoutubePlayerPHP.png)](http://travis-ci.org/benjaminlazarecki/YoutubePlayerPHP)
 
 It's allow you to create a youtube player and render it.
 
